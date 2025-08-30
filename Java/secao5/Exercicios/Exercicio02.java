@@ -16,11 +16,11 @@ public class Exercicio02 {
 
     if (user.equals("admin") && senha == 1234) {
 
-      System.out.println("Acesso permitido");
+      System.out.println("Acesso permitido.");
 
     } else{
 
-      System.out.println("Acesso negado");
+      System.out.println("Acesso negado.");
 
     }
 
